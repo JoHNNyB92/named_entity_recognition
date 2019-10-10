@@ -1,4 +1,4 @@
-# named_entity_recognition
+# Named Entity Recognition (NER)
 
 This question concerns the Named Entity Recognition. We will be using the Groningen Meaning Bank
 dataset. GMB is composed of a lot of files, but we only care about the .tags files.
